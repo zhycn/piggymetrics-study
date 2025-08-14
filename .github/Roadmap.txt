@@ -9,3 +9,11 @@
 - 2025-08-14 registry服务启动成功。访问地址：http://localhost:8761
 - 2025-08-14 gateway服务启动成功。
 - 2025-08-14 turbine-stream-service 服务启动成功。（但是没有配置rabbitmq）
+
+```bash
+接下来要解决MongoDB和RabbitMq的配置问题。剩余4个服务需要完成。
+- account-service
+- auth-service
+- notification-service
+- statistics-service
+```
