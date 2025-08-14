@@ -17,3 +17,6 @@
 - notification-service
 - statistics-service
 ```
+
+- 2025-08-14 通过docker完成了MongoDB和RabbitMq的配置。
+- 2025-08-14 auth-service 服务启动成功。(服务端口从5000改为5100)
