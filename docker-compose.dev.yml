@@ -38,7 +38,7 @@ services:
   statistics-service:
     build: statistics-service
     ports:
-      - 7000:7000
+      - 7100:7100
 
   statistics-mongodb:
     build: mongodb
